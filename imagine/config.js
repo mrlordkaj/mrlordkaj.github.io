@@ -1,0 +1,1 @@
+const IMAGINE_SERVER = 'thinhpd.ddns.net:8000';
