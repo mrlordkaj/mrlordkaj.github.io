@@ -1,1 +1,1 @@
-const IMAGINE_SERVER = 'thinhpd.ddns.net:8000';
+const IMAGINE_SERVER = 'http://thinhpd.ddns.net:8000';
