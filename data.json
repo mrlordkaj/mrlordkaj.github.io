@@ -7,7 +7,7 @@
       "data": [
         "Rapidly gameplay prototyping, core mechanics, and networked multiplayer programming",
         "Chaos physics implementation, traffic simulation, flight simulation",
-        "Mechanical vehicles and humanoid rigging, procedural animations implementation",
+        "Mechanical and humanoid rigging, animation retargeting, procedural animation implementation",
         "Scene rendering optimization, custom material functions development",
         "Custom visual effects development with Niagara system"
       ]
@@ -80,7 +80,7 @@
       "group": "game"
     },
     {
-      "title": "HomeTeam Festival",
+      "title": "Home Team Festival",
       "image": "img/item-ht.jpg",
       "link": "https://youtu.be/eGCOWdYsaIs",
       "desc": "Conceptualising, design and development of approximately 14+ multimedia and interactive experiences for the Home Team Festival 2023, from holographic avatar guide, VR scenario game, cycling game, generic touch...",
@@ -126,6 +126,13 @@
       "image": "img/item-f1.jpg",
       "link": "https://youtu.be/HUhjqZVp6ys",
       "desc": "This project which is supported by Singapore Tourism Board is created for F1 Fan to have real experiences about the Grand Prix before the race starts. We were very honored to make such an amazing application. We played...",
+      "group": "software game"
+    },
+    {
+      "title": "Certis Cisco Metaverse",
+      "image": "img/item-cisco.jpg",
+      "link": "img/port-cisco.jpg",
+      "desc": "Conceptualising, design and development of a metaverse that allows B2B parties to join or host a meeting/ presentation session. Includes building of 3 virtual environment, chat system, mute, kick, invite functionality...",
       "group": "software"
     },
     {
@@ -145,7 +152,7 @@
     {
       "title": "Nokia Asha Competitive",
       "image": "img/item-nokia.jpg",
-      "link": "img/porfolio/nokia.jpg",
+      "link": "img/port-nokia.jpg",
       "desc": "I had the honor of winning first prize in a game development competition, which organized by Nokia. It recalls a memorable time in my youth, with competitions, hackathons, and prizes...",
       "group": "game"
     }
